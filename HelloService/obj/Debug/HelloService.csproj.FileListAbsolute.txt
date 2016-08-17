@@ -1,0 +1,11 @@
+D:\ganesh\WCFHelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\ganesh\WCFHelloService\HelloService\bin\Debug\HelloService.dll
+D:\ganesh\WCFHelloService\HelloService\bin\Debug\HelloService.pdb
+D:\ganesh\WCFHelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+D:\ganesh\WCFHelloService\HelloService\obj\Debug\HelloService.dll
+D:\ganesh\WCFHelloService\HelloService\obj\Debug\HelloService.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloService\bin\Debug\HelloService.dll
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloService\bin\Debug\HelloService.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloService\obj\Debug\HelloService.dll
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloService\obj\Debug\HelloService.pdb

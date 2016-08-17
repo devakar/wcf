@@ -1,0 +1,15 @@
+D:\ganesh\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\ganesh\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\ganesh\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\ganesh\WCFHelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\ganesh\WCFHelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\ganesh\WCFHelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\ganesh\WCFHelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\bin\Debug\HelloService.dll
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache

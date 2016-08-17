@@ -1,0 +1,11 @@
+D:\ganesh\WCFHelloService\HelloWebClient\bin\HelloWebClient.dll
+D:\ganesh\WCFHelloService\HelloWebClient\bin\HelloWebClient.pdb
+D:\ganesh\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.csprojResolveAssemblyReference.cache
+D:\ganesh\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.dll
+D:\ganesh\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\bin\HelloWebClient.dll.config
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\bin\HelloWebClient.dll
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\bin\HelloWebClient.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.dll
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.pdb
+D:\GaneshN\WebProgramming\Wcf\WCF Class Sessions\Class 3\WCFHelloService\WCFHelloService\HelloWebClient\obj\Debug\HelloWebClient.csprojResolveAssemblyReference.cache
